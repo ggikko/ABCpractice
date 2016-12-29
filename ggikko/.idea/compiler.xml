@@ -19,8 +19,12 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
-      <module name="ggikko_main" target="1.5" />
-      <module name="ggikko_test" target="1.5" />
+      <module name="ggikko_main" target="1.7" />
+      <module name="ggikko_test" target="1.7" />
+      <module name="helper_main" target="1.5" />
+      <module name="helper_test" target="1.5" />
+      <module name="merong_main" target="1.7" />
+      <module name="merong_test" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

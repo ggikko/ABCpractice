@@ -3,11 +3,11 @@ import com.squareup.javapoet.MethodSpec;
 import com.squareup.javapoet.TypeSpec;
 
 import javax.lang.model.element.Modifier;
-import java.io.IOException;
 
 /**
  * Created by ggikko on 2016. 12. 28..
  */
+
 public class HelloWorld {
 
     public static void main(String[] args) throws Exception {

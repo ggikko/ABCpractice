@@ -5,6 +5,12 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ggikko.iml" filepath="$PROJECT_DIR$/.idea/modules/ggikko.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ggikko_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ggikko_main.iml" group="ggikko" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ggikko_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ggikko_test.iml" group="ggikko" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/helper/helper.iml" filepath="$PROJECT_DIR$/.idea/modules/helper/helper.iml" group="helper" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/helper/helper_main.iml" filepath="$PROJECT_DIR$/.idea/modules/helper/helper_main.iml" group="helper" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/helper/helper_test.iml" filepath="$PROJECT_DIR$/.idea/modules/helper/helper_test.iml" group="helper" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/merong/merong.iml" filepath="$PROJECT_DIR$/.idea/modules/merong/merong.iml" group="merong" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/merong/merong_main.iml" filepath="$PROJECT_DIR$/.idea/modules/merong/merong_main.iml" group="merong" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/merong/merong_test.iml" filepath="$PROJECT_DIR$/.idea/modules/merong/merong_test.iml" group="merong" />
     </modules>
   </component>
 </project>

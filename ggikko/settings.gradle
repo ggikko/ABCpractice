@@ -1,2 +1,4 @@
 rootProject.name = 'ggikko'
+include 'merong'
+include 'helper'
 
